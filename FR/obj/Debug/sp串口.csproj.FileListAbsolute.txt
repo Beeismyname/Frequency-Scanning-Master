@@ -1,0 +1,259 @@
+C:\Users\99482\source\repos\sp串口\sp串口\bin\Debug\sp串口.exe.config
+C:\Users\99482\source\repos\sp串口\sp串口\bin\Debug\sp串口.exe
+C:\Users\99482\source\repos\sp串口\sp串口\bin\Debug\sp串口.pdb
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.csproj.SuggestedBindingRedirects.cache
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.Form1.resources
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.exe
+C:\Users\99482\source\repos\sp串口\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\C#\sp串口\sp串口\bin\Debug\sp串口.exe.config
+E:\桌面\C#\sp串口\sp串口\bin\Debug\sp串口.exe
+E:\桌面\C#\sp串口\sp串口\bin\Debug\sp串口.pdb
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.Form1.resources
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.exe
+E:\桌面\C#\sp串口\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\bin\Debug\sp串口.exe.config
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\bin\Debug\sp串口.exe
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\bin\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.Form1.resources
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.exe
+E:\桌面\C#\2023.09.19_SineSweep\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\sp串口.exe.config
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\sp串口.exe
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.Form1.resources
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.exe
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\Enums.NET.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\MathNet.Numerics.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.Core.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OOXML.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Buffers.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Memory.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\Enums.NET.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\Enums.NET.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\MathNet.Numerics.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.Core.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.Core.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OOXML.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Buffers.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Memory.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\obj\Debug\sp串口.csproj.CopyComplete
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.ValueTuple.dll
+E:\桌面\C#\2023.09.19_SineSweep_R\sp串口\bin\Debug\System.ValueTuple.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.exe.config
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.exe
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\MathNet.Numerics.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Buffers.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Memory.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.ValueTuple.dll
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\MathNet.Numerics.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Buffers.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Memory.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.ValueTuple.xml
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.Form1.resources
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.CopyComplete
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.exe
+E:\桌面\C#\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.exe.config
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.exe
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\sp串口.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.Form1.resources
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.Properties.Resources.resources
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.csproj.CopyComplete
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.exe
+E:\桌面\研究生资料\FSM\C#上位机\2023.09.24_SineSweep_X\sp串口\obj\Debug\sp串口.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.exe.config
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\sp串口.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.Form1.resources
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.Properties.Resources.resources
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\sp串口.csproj.GenerateResource.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\sp串口.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\sp串口.csproj.CopyComplete
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.pdb

@@ -1,0 +1,256 @@
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.exe.config
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.Figure.resources
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.Form1.resources
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.Properties.Resources.resources
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.csproj.GenerateResource.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.csproj.CopyComplete
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\obj\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.xml
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.WindowsForms.dll
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\桌面\研究生资料\Sweep\Sweep - 副本\sp串口\bin\Debug\OxyPlot.WindowsForms.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\FR.exe.config
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.WindowsForms.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\OxyPlot.WindowsForms.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.Figure.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.Form1.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.Properties.Resources.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.csproj.GenerateResource.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.csproj.CopyComplete
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.1\FR\obj\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\FR.exe.config
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.WindowsForms.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\OxyPlot.WindowsForms.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.Figure.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.Form1.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.Properties.Resources.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.csproj.GenerateResource.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.csproj.CopyComplete
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.2\FR\obj\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\FR.exe.config
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\FR.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\BouncyCastle.Cryptography.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\Enums.NET.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\MathNet.Numerics.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.Core.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OOXML.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXml4Net.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.WindowsForms.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\SixLabors.Fonts.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\SixLabors.ImageSharp.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Buffers.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Memory.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Numerics.Vectors.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.AccessControl.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.Principal.Windows.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.ValueTuple.dll
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\BouncyCastle.Cryptography.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\Enums.NET.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\Enums.NET.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\MathNet.Numerics.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.Core.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.Core.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OOXML.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OOXML.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXml4Net.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\OxyPlot.WindowsForms.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\SixLabors.Fonts.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\SixLabors.ImageSharp.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Buffers.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Memory.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Numerics.Vectors.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.AccessControl.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Security.Principal.Windows.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\bin\Debug\System.ValueTuple.xml
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.csproj.AssemblyReference.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.Figure.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.Form1.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.Properties.Resources.resources
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.csproj.GenerateResource.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.csproj.CoreCompileInputs.cache
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.csproj.CopyComplete
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.exe
+E:\桌面\研究生资料\Sweep\Sweep2.1.3\FR\obj\Debug\FR.pdb
